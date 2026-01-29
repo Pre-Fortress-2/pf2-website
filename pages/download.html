@@ -6,54 +6,27 @@ subject: "Download Pre-Fortress 2"
 description: "Download Pre-Fortress 2"
 ---
 <div id="choose-game-area">
-    <div id="all_versions">
-        <br><br>
-        <h1>> <a href="https://dl.prefortress.com/0.7/pf2_0.7.4.7z">Download Pre-Fortress 2 (0.7.4)</a></h1>
-        <div id="mirrors">
-            <h2>Mirrors</h3>
-            <ul id="mirror_list">
-                <p>
-                    <li><a href="https://public.nickcloud.at/share/pf2/pf2_0.7.4.zip" target="_blank">EU Mirror - ZIP archive</a></li>
-                    <li><a href="https://public.nickcloud.at/share/pf2/pf2_0.7.4.tar.gz" target="_blank">EU Mirror - tar.gz archive</a></li>
-                    <li><a href="https://github.com/Pre-Fortress-2/pf2/releases/latest" target="_blank">US Mirror - Split 7z archive</a></li>
-                </p>
-            </ul>
-		</div>
-        <h2>Requirements:</h2>
-        <ul>
-            <li>To play Pre-Fortress 2 you must have <a href="steam://install/243750"> Source SDK Base 2013 Multiplayer</a> installed.
-            <li><strong>Pre-Fortress 2 needs to be installed on the drive where Steam is installed!</strong>
-            <li>Before running the game you must right-click Source SDK Base 2013 Multiplayer in your library, click <strong>Properties</strong>,<br>click on <strong>Betas</strong>, and select <strong>"previous2021"</strong>.<br>
-        </ul>
-        <div>
-            <h2>Installation:</h2>
-            <p>
-                Open the archive, navigate to the <strong>sourcemods</strong> folder and extract the <strong>pf2</strong> folder there.
-                The <strong>sourcemods</strong> folder can usually be found in these location:<br><br>
-                <p><strong>Windows:</strong></p>
-                <ul>
-                    <li>C:/Program Files (x86)/Steam/steamapps/sourcemods/</li>
-                </ul>
-                <p><strong>Linux:</strong></p>
-                <ul>
-                    <li>~/.steam/steam/steamapps/sourcemods</li>
-                </ul>
-            </p>  
-        </div>
+    <h2>Requirements:</h2>
+    <ul>
+        <li>To play Pre-Fortress 2 you must have <a href="steam://install/243750"> Source SDK Base 2013 Multiplayer</a> installed.
+        <li>Pre-Fortress 2 needs to be <strong>installed on the same drive as Steam</strong>.
+        <li>Before running the game you must right-click Source SDK Base 2013 Multiplayer in your library, click <strong>Properties</strong>,<br>click on <strong>Betas</strong>, and select <strong>"previous2021"</strong>.<br>
+    </ul>
+    <div class="box-center">
+        <a href="https://github.com/Pre-Fortress-2/wings/releases/download/v1.7.4-b2/wings.exe"><img src="/img/btn_win_dl.png" alt="Download for Windows" class="install-box box-img" id="btn_win_dl"></a><br><br>
+        <a href="https://github.com/Pre-Fortress-2/wings/releases/download/v1.7.4-b2/wings"><img src="/img/btn_linux_dl.png" alt="Download for Linux" class="install-box box-img" id="btn_linux_dl"></a><br><br>
+        <a href="https://dl.prefortress.com/0.7/pf2_0.7.4.7z"><img src="/img/btn_archive_dl.png" alt="Download Game Archive" class="box-img install-box box-center" id="btn_archive_dl"></a><br><br>
+    </div>
+    <h2>Notice</h2>
+    <p>
+        Your computer may potentially falsely flag it as a virus, in the event you receive a block notification, click allow to proceed with the download. <a href="https://github.com/Pre-Fortress-2/wings">Wings is open-source</a> and is forked from <a href="https://github.com/ktwrd/beans-rs">"Beans" the installer used by legacy version of Open Fortress</a>.
+    </p>
 
-        <div>
-            <h2>Post-Installation:</h2>
-            <p>
-                You will need to restart Steam in order for the mod to appear in your library. To do that, open up Steam, press the <strong>Steam</strong> button at the top-left of the window then press <b>Exit</b>. Wait a moment for Steam to fully shutdown, then reopen Steam.<br>
-                If all went well, you should see <strong>Pre-Fortress 2</strong> in your library.<br>
-                If presented with two launch options, select the second one with no text.<br><br>
-                <strong>NOTE:</strong>
-                <ul>
-                    <li>Only Windows 10 or above is supported.</li>
-                    <li>Linux users must put <strong>-steam -steam</strong> in their launch options (Yes, twice).</li>
-
-                </ul>
-           {% include servers.html %}
-        </div>
-    </div>   
-</div>
+    <h2>Post-Installation:</h2>
+    <ul>
+        <li>You will need to restart Steam in order for the mod to appear in your library.</li>
+        <li>Linux users must put <strong>-steam -steam</strong> in their launch options (Yes, twice).</li>
+        <li>If presented with two launch options, select the second one with no text.</li>
+        <li>Connect to a server via the <a href="/connect">Server List</a> or visit our <a href="/discord">Discord server</a> to start a session.</li>
+    </ul>
+</div>   
