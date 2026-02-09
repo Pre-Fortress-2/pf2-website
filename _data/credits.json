@@ -118,10 +118,6 @@
 			}
 		},
 		{
-			"name": "luse",
-			"code": true
-		},
-		{
 			"name": "moldy colby",
 			"textures": true,
 			"other": {
@@ -150,10 +146,6 @@
 		{
 			"name": "Skyrym",
 			"models": true
-		},
-		{
-			"name": "Waugh101",
-			"mapper": true
 		}
 	],
 	"contributors": [
@@ -397,6 +389,10 @@
 			"textures": true
 		},
 		{
+			"name": "luse",
+			"code": true
+		},
+		{
 			"name": "Marphy Black",
 			"other": {
 				"English": [
@@ -545,6 +541,10 @@
 		{
 			"name": "Vita/Astn/DOS_",
 			"models": true
+		},
+		{
+			"name": "Waugh101",
+			"mapper": true
 		},
 		{
 			"name": "Wendy",
