@@ -104,77 +104,25 @@
 	list-style: none;
 }
 
-.team-container summary {
-  position: relative;
-  anchor-name: --summary;
-  details {
-		margin: 50%;
+.join-page-containers {
+	summary {
+		list-style-position: outside;
+		margin-left: 2rem;
+		padding: 1rem;
+		cursor: pointer;
 	}
-  &::marker {
-    content: "";
-  }
-  
-  &::before,
-  &::after {
-    content: "";
-    border-block-start: 3px solid;
-    height: 0;
-    width: 1rem;
-    
-    inset-block-start: 50%;
-    inset-inline-end: 0;
-    
-    position: absolute;
-    position-anchor: --summary;
-    position-area: top end;
-  }
-  
-  &::after {
-    transform: rotate(90deg);
-    transform-origin: 50%;
-  }
-	
-	detail[open] summary::after {
-  	transform: rotate(0deg);
+	details > summary {
+  	transition: color 1s;
+	}
+	details[open] > summary {
+  	color: #8f8f8f;
 	}
 }
 
 .role-container {
 	width: 95%;
 	margin: 1rem auto; 
-	padding: 0 15px 15px 15px; 
+	padding: 0em 1em .5em 1em;  
 	border-radius: 0.5rem; 
 	background: #272422;
-	
-	summary {
-		position: relative;
-		anchor-name: --summary;
-		
-		&::marker {
-			content: "";
-		}
-		
-		&::before,
-		&::after {
-			content: "";
-			border-block-start: 3px solid;
-			height: 0;
-			width: 1rem;
-			
-			inset-block-start: 50%;
-			inset-inline-end: 0;
-			
-			position: absolute;
-			position-anchor: --summary;
-			position-area: top end;
-		}
-		
-		&::after {
-			transform: rotate(90deg);
-			transform-origin: 50%;
-		}
-	}
-	detail[open] summary::after {
-  	transform: rotate(0deg);
-	}
 }

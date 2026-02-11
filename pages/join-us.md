@@ -6,6 +6,7 @@ subject: "Join the Pre-Fortress 2 Team"
 description: "Join the Pre-Fortress 2 Team"
 ---
 
+<div class="join-page-containers">
 <details class="team-container">
   <summary><h1>Programming Team</h1><hr></summary>
   {% include roles/webdev.html %}
@@ -16,3 +17,4 @@ description: "Join the Pre-Fortress 2 Team"
   <summary><h1>Mapping Team</h1><hr></summary>
    {% include roles/enviromap.html %}
 </details>
+</div>
