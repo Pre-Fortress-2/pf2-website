@@ -8,10 +8,8 @@ description: "Join the Pre-Fortress 2 Team"
 
 <details class="team-container">
   <summary><h1>Programming Team</h1><hr></summary>
-  <ul>
-    <li>{% include roles/webdev.html %}</li>
-    <li>{% include roles/gameprog.html %}</li>
-  </ul>
+  {% include roles/webdev.html %}
+  {% include roles/gameprog.html %}
 </details>
 
 <details class="team-container">
