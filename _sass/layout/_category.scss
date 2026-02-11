@@ -105,3 +105,85 @@
 .credits-container li{
 	list-style: none;
 }
+.team-container li {
+	list-style: none;
+}
+.team-container summary {
+  position: relative;
+  anchor-name: --summary;
+  details {
+		margin: 50%;
+	}
+  &::marker {
+    content: "";
+  }
+  
+  &::before,
+  &::after {
+    content: "";
+    border-block-start: 3px solid;
+    height: 0;
+    width: 1rem;
+    
+    inset-block-start: 50%;
+    inset-inline-end: 0;
+    
+    position: absolute;
+    position-anchor: --summary;
+    position-area: top end;
+  }
+  
+  &::after {
+    transform: rotate(90deg);
+    transform-origin: 50%;
+  }
+}
+
+.role-container {
+	width: 95%;
+	margin: 0 auto; 
+	padding: 0 15px 15px 15px; 
+	border-radius: 0.5rem; 
+	background: #272422;
+}
+
+.role-container summary{
+  position: relative;
+  anchor-name: --summary;
+  
+  &::marker {
+    content: "";
+  }
+  
+  &::before,
+  &::after {
+    content: "";
+    border-block-start: 3px solid;
+    height: 0;
+    width: 1rem;
+    
+    inset-block-start: 50%;
+    inset-inline-end: 0;
+    
+    position: absolute;
+    position-anchor: --summary;
+    position-area: top end;
+  }
+  
+  &::after {
+    transform: rotate(90deg);
+    transform-origin: 50%;
+  }
+}
+
+.role-container {
+	width: 95%;
+	margin: 0 auto; 
+	padding: 0 15px 15px 15px; 
+	border-radius: 0.5rem; 
+	background: #272422;
+
+	li {
+		list-style: circle inside;
+	}
+}
