@@ -103,26 +103,56 @@
 .credits-container li{
 	list-style: none;
 }
+.teams-container li {
+	list-style: none;
+}
 
-.join-page-containers {
-	summary {
-		list-style-position: outside;
-		margin-left: 2rem;
-		padding: 1rem;
-		cursor: pointer;
+.teams-container summary {
+  position: relative;
+  anchor-name: --summary;
+  details {
+		margin: 50%;
 	}
-	details > summary {
-  	transition: color 1s;
-	}
-	details[open] > summary {
-  	color: #8f8f8f;
-	}
+  &::marker {
+    content: "";
+  }
+  
+  &::before,
+  &::after {
+
+    content: "";
+    border-block-start: 3px solid;
+    height: 0;
+    width: 1rem;
+    
+    inset-block-start: 50%;
+    inset-inline-end: 0;
+    
+    position: absolute;
+    position-anchor: --summary;
+  }
+  
+  &::after {
+    transform: rotate(90deg);
+    transform-origin: 50%;
+  }
 }
 
 .role-container {
 	width: 95%;
-	margin: 1rem auto; 
-	padding: 0em 1em .5em 1em;  
+	margin: 0 auto; 
+	padding: 0 15px 15px 15px; 
 	border-radius: 0.5rem; 
 	background: #272422;
+
+	li {
+		list-style: circle inside;
+	}
+}
+.teams-container > details[open] > summary::after {
+	transform: rotate(0deg);
+}
+
+.role-container[open] > summary::after {
+	transform: rotate(0deg);
 }
