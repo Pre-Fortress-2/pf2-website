@@ -37,6 +37,9 @@ We are excited to announce that Pre-Fortress 2 is **now accepting applications f
   - Head comparisons
 - New Weapons
   - Show off Mac-10 for real
+
+<img src="/assets/blog/steam-release-news/mac10_render.png" style="width: 80%; display: inline;">
+
 - Maps are in-dev
   - Push
   - Openfire
