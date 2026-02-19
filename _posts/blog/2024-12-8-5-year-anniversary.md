@@ -43,13 +43,6 @@ We asked our team if they had any experiences over the years that they wanted to
 <br><br>
 - gamingcam2008 (Mapper)
 </p>
-
-<p class="credits-container">
-<br>
-"I would like to thank everyone who contributed to bringing my concept to life, from the modelers and texture artists to the sound designers and animators."
-<br><br>
-- HypnOS 1999 (Concept Artist)
-</p>
 \
 ![DarioBowl](/assets/blog/anniversary/dariobowl.png)
 <br>
