@@ -4,14 +4,14 @@ subject: "Blog"
 title: "Steam Progress Report"
 date:   2026-02-02 00:20:00 -0500
 categories: blog
-description: "Steam release news with sneak peeks of upcoming content!"
+description: "Steam release progress report with sneak peeks of upcoming content!"
 hidden: false
 author: PF2 Team
 permalink: /:categories/:slug
 image: /assets/blog/steam-progress-report/mac10_render.png
 minibanner: steam_promo.png
 NoImageEffect: 0
-excerpt: "News about the Steam release of Pre-Fortress 2 with sneak peeks of upcoming content!"
+excerpt: "Progress report about the Steam release of Pre-Fortress 2 with sneak peeks of upcoming content!"
 ---
 
 > The Steam page wasn't always intended to be delayed, and if you're interested in an in-depth look at the history of our Steam page view the link below
