@@ -7,7 +7,7 @@ categories: blog
 description: "The history of the Steam page"
 hidden: true
 author: PF2 Team
-permalink: /:categories/steam-release-news/story-time
+permalink: /:categories/steam-progress-report/story-time
 image: /assets/blog/coming-to-steam/steam_promo.png
 minibanner: steam_promo.png
 NoImageEffect: 0

@@ -1,14 +1,14 @@
 ---
 layout: blog
 subject: "Blog"
-title: "Steam Release NEWS!"
+title: "Steam Progress Report"
 date:   2026-02-02 00:20:00 -0500
 categories: blog
 description: "Steam release news with sneak peeks of upcoming content!"
 hidden: false
 author: PF2 Team
 permalink: /:categories/:slug
-image: /assets/blog/steam-release-news/mac10_render.png
+image: /assets/blog/steam-progress-report/mac10_render.png
 minibanner: steam_promo.png
 NoImageEffect: 0
 excerpt: "News about the Steam release of Pre-Fortress 2 with sneak peeks of upcoming content!"
@@ -42,19 +42,19 @@ The `0.8` update is planned to ship with remade player models. Progress on the r
 Changes made to the bodies of the player models are and will not be immediately apparent, sans Medic, who will receive a noticeably higher definition coat. The improvements made to the body meshes will primarily concern adding additional polygons to the parts of the meshes that bend the most during animation, such as the elbows and knees. Similarly to the heads, the new body meshes will be complimented with higher resolution normal maps at a later stage of development.
 \
 \
-<img class="full-size" style="width:80%;" src="/assets/blog/steam-release-news/headshots/demo_side.png" alt="Demo's Head Side Unrendered"/>
+<img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/headshots/demo_side.png" alt="Demo's Head Side Unrendered"/>
 
-<img class="full-size" style="width:80%;" src="/assets/blog/steam-release-news/headshots/demo_front.png" alt="Demo's Head Front Unrendered"/>
+<img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/headshots/demo_front.png" alt="Demo's Head Front Unrendered"/>
 
-<img class="full-size" style="width:80%;" src="/assets/blog/steam-release-news/headshots/demo_front_rendered.png" alt="Demo's Head Front Rendered with Texture"/>
+<img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/headshots/demo_front_rendered.png" alt="Demo's Head Front Rendered with Texture"/>
 
-<img class="full-size" style="width:80%;" src="/assets/blog/steam-release-news/headshots/soldier_side.png" alt="Solder's Head Side Unrendered"/>
+<img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/headshots/soldier_side.png" alt="Solder's Head Side Unrendered"/>
 
-<img class="full-size" style="width:80%;" src="/assets/blog/steam-release-news/headshots/soldier_front.png" alt="Soldier's Head Front Unrendered"/>
+<img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/headshots/soldier_front.png" alt="Soldier's Head Front Unrendered"/>
 
-<img class="full-size" style="width:80%;" src="/assets/blog/steam-release-news/headshots/soldier_front_rendered.png" alt="Soldier's Head Front Rendered"/>
+<img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/headshots/soldier_front_rendered.png" alt="Soldier's Head Front Rendered"/>
 
-<img class="full-size" style="width:80%;" src="/assets/blog/steam-release-news/headshots/soldier_upper_body_render.png" alt="Soldier's Upper Body Rendered"/>
+<img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/headshots/soldier_upper_body_render.png" alt="Soldier's Upper Body Rendered"/>
 
 ## New Weapons
 The armory has a few new weapons at the disposal of our mercenaries! In the upcoming Steam release of our game, we intend to add a non-invasive loadout system that gives players access to more weaponry from older Team Fortress installments as well as weapons that take influence from cut content. 
@@ -62,7 +62,7 @@ The armory has a few new weapons at the disposal of our mercenaries! In the upco
 The **"Mac-10"**, which Based on the concept art of TF2 we have given Scout an additional choice of hardware.
 \
 \
-<img src="/assets/blog/steam-release-news/mac10_render.png" style="width: 80%;" alt="Mac-10">
+<img src="/assets/blog/steam-progress-report/mac10_render.png" style="width: 80%;" alt="Mac-10">
 <p class="credits-container">
 <br>
 "Out of all the TF2 styled weapons I've designed, the Mac10 is the one I'm most proud of. I did a lot of research on the weapon to make sure I did it justice. For me, it was an important milestone in learning the level of detail and proportional exaggeration that a TF2 styled weapon should have.
@@ -93,9 +93,9 @@ Most importantly we will be taking influence from other mods and will be introdu
 By using the modern TF2 menus as a base we will be modifying the Achievement menu to be a larger window in our existing style. Here is some concept art for what is to be expected in the Steam release.
 \
 \
-<img class="full-size" style="width:80%;" src="/assets/blog/steam-release-news/achievements/mainmenu_achievements_unachieved.png" alt="Concept Achievements Menu Unachieved"/>
+<img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/achievements/mainmenu_achievements_unachieved.png" alt="Concept Achievements Menu Unachieved"/>
 
-<img class="full-size" style="width:80%;" src="/assets/blog/steam-release-news/achievements/mainmenu_achievements_achieved.png" alt="Concept Achievements Menu Achieved"/>
+<img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/achievements/mainmenu_achievements_achieved.png" alt="Concept Achievements Menu Achieved"/>
 
 # TF2 SDK gives us more options
 
