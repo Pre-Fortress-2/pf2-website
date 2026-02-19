@@ -27,13 +27,11 @@ We are excited to announce that Pre-Fortress 2 is **now accepting applications f
 ---
 *Take a closer look at that content!*
 
-## Model Overhauls
+## Weapon Overhauls
 
-We view the `0.8` update is an opportunity for us to update, optimize and remake some of our older models. We want our game to be polished 
+The `0.8` update is an opportunity for us to remake and optimize some of our existing weapon models. Some these models include the Mat-49, Pipe, Tranq Gun and Grenade Gibs. No model is truly safe from the grasp of model remakes as we want our game to be polished as best we can for our debut on Steam. 
 
-  - Weapons
-    - Mat-49 (Soon to be renamed)
-    - Pipe
+Additionally, we will be renaming the Mat-49 and Mac-10 to be more in line with the existing naming scheme of our weapons. We haven't finalized the names yet, but you can expect them to both have the word "SMG" in it.
 
 ## Player Models
 
@@ -73,18 +71,22 @@ I would like to thank everyone who contributed to bringing my concept to life, f
 </p>
 <p class="credits-container">
 <br>
-"Thanks to the collaborative effort from everyone at Pre-Fortress 2.  We're setting a new standard on how we are approaching new weapons for Pre-Fortress 2. From design, modelling, texturing, animation, sound design, and implementation within the game. The Mac-10 is the most recent example of our efforts in creating a weapon that belongs to the world of Pre-Fortress 2."
+"I'm quite happy on how the Mac-10 turned out! I worked on the textures and the render for this blog and It's been really fun working with my colleagues on this weapon and getting the Mac-10 to look just right for Pre-Fortress 2. The Mac-10 is a really good example on how we're going to build weapons in the future. From design, modelling, texturing, animation, sound design, and implementation within the game. Everyone did an amazing job on the Mac-10."
 <br><br>
 - Justyn (Texture Artist)
 </p>
 
-# Maps are in-dev
+## New maps
 
-  - Push
-  - Openfire
-  - Zeppelin
+The level designer said we can't reveal too much but we managed to sneak these photos out of the Hammer labs. 
 
-# UI Reworks
+[polaroid of map]
+
+[polaroid of map]
+
+[screenshot of map]
+
+## UI Rework
 
 For the Steam release of Pre-Fortress 2 we took this as an opportunity to to updates certain parts of our menus.
 
@@ -97,11 +99,19 @@ By using the modern TF2 menus as a base we will be modifying the Achievement men
 
 <img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/achievements/mainmenu_achievements_achieved.png" alt="Concept Achievements Menu Achieved"/>
 
-# TF2 SDK gives us more options
+## What to expect from the new SDK
 
-  - VScript
-  - Steam Networking
-  - Replay
-  - Workshop
-  - Bots
-  [video of bots fighting on crossover]
+The transition to the TF2 SDK has not only granted us access to Steam, but it also means we get some really cool features too. 
+
+On release we intend to:
+  - Port VScript for mappers to be able to craft more intricate maps.
+  - Steam Networking for players to be able to connect to each other without needing a server.
+  - Replay Editor for players to record game highlights and share them with friends.
+  - Workshop support for easier sharing of player shared content.
+  - Bots. *Need we say more?*
+
+[video of bots fighting on crossover]
+
+## Until next time...
+
+We hope you've enjoyed this preview into the development of Pre-Fortress 2, and hopefully, it'll be worth the wait.
