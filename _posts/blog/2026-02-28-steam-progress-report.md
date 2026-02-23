@@ -90,7 +90,7 @@ The level designer said we can't reveal too much but we managed to sneak these p
 
 For the Steam release of Pre-Fortress 2 we took this as an opportunity to to updates certain parts of our menus.
 
-Most importantly we will be taking influence from other mods and will be introducing a "Trusted" and "Official" system. These servers will show up at the top of the Server list and can be toggled on or off by the user.
+Most importantly we will be taking influence from other mods and will be introducing a "Verified" and "Official" system. These servers will show up at the top of the Server list and can be toggled on or off by the user.
 
 By using the modern TF2 menus as a base we will be modifying the Achievement menu to be a larger window in our existing style. Here is some concept art for what is to be expected in the Steam release.
 \
@@ -107,10 +107,10 @@ On release we intend to:
   - Port VScript for mappers to be able to craft more intricate maps.
   - Steam Networking for players to be able to connect to each other without needing a server.
   - Replay Editor for players to record game highlights and share them with friends.
-  - Workshop support for easier sharing of player shared content.
+  - Workshop support for easier sharing of player created content.
   - Bots. *Need we say more?*
 
-[video of bots fighting on crossover]
+[video of bots fighting on 2fort]
 
 ## Until next time...
 
