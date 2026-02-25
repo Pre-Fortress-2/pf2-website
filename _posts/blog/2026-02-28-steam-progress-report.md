@@ -8,9 +8,9 @@ description: "Steam release progress report with sneak peeks of upcoming content
 hidden: false
 author: PF2 Team
 permalink: /:categories/:slug
-image: /assets/blog/steam-progress-report/mac10_render.png
-minibanner: steam_promo.png
-NoImageEffect: 0
+image: /assets/blog/steam-progress-report/progress_report_mac10.png
+minibanner: steam-progress-report.png
+NoImageEffect: 1
 excerpt: "Progress report about the Steam release of Pre-Fortress 2 with sneak peeks of upcoming content!"
 ---
 
