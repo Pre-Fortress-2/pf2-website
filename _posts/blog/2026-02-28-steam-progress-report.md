@@ -80,9 +80,7 @@ I would like to thank everyone who contributed to bringing my concept to life, f
 
 The level designer said we can't reveal too much but we managed to sneak these photos out of the Hammer labs. 
 
-[polaroid of map]
-
-[polaroid of map]
+<img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/teaser_photos.png" alt="Teasers for upcoming maps"/>
 
 [screenshot of map]
 
