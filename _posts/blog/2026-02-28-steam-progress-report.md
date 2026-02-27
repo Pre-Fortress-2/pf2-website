@@ -78,11 +78,15 @@ I would like to thank everyone who contributed to bringing my concept to life, f
 
 ## New maps
 
-The level designer said we can't reveal too much but we managed to sneak these photos out of the Hammer labs. 
-
+Our level designers have been hard at work on some new content for the Steam release, and with their permission we've got a couple photos to share!
+\
+\
+<img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/teaser_photo_in_color1.png" alt="Teaser for upcoming maps"/>
+\
+<img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/teaser_photo_in_color2.png" alt="Teaser for upcoming maps"/>
+\
+They told us we couldn't reveal too much more, but we managed to sneak these photos out of the Hammer labs.
 <img class="full-size" style="width:80%;" src="/assets/blog/steam-progress-report/teaser_photos.png" alt="Teasers for upcoming maps"/>
-
-[screenshot of map]
 
 ## UI Rework
 
