@@ -2,7 +2,7 @@
 layout: blog
 subject: "Blog"
 title: "Steam Progress Report"
-date:   2026-02-02 00:20:00 -0500
+date:   2026-03-01 00:20:00 -0500
 categories: blog
 description: "Steam release progress report with sneak peeks of upcoming content!"
 hidden: false
@@ -112,7 +112,7 @@ On release we intend to:
   - Workshop support for easier sharing of player created content.
   - Bots. *Need we say more?*
 
-[video of bots fighting on 2fort]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyZx5hueznw?si=DHahuVeVu1MmVMTT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Until next time...
 

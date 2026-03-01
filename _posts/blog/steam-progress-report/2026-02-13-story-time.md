@@ -2,15 +2,14 @@
 layout: blog
 subject: "Blog"
 title: "The history of the Steam page"
-date:   2026-02-02 00:20:00 -0500
+date:   2026-03-01 00:20:00 -0500
 categories: blog
 description: "The history of the Steam page"
 hidden: true
 author: PF2 Team
 permalink: /:categories/steam-progress-report/story-time
-image: /assets/blog/coming-to-steam/steam_promo.png
-minibanner: steam_promo.png
-NoImageEffect: 0
+image: /assets/blog/steam-progress-report/progress_report_mac10.png
+NoImageEffect: 1
 excerpt: "The history of the Steam page"
 ---
 
