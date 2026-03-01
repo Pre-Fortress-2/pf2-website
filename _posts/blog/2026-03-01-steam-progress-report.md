@@ -16,7 +16,7 @@ excerpt: "Progress report about the Steam release of Pre-Fortress 2 with sneak p
 
 > The Steam page wasn't always intended to be delayed, and if you're interested in an in-depth look at the history of our Steam page view the link below
 
-- **[Developer commentary on the history of the Steam Page](story-time)**
+- **[Developer commentary on the history of the Steam Page](/blog/steam-progress-report/story-time)**
 
 # Developer Applications
 ---
