@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://prefortress.com" # the base hostname & protocol for your site, e.g. http://example.com
 discord-invite: "https://prefortress.com/discord"
 gameversion: "074" # current game version
+devapplication: "https://forms.gle/UzZVgQAFUZEWh6vLA"
 
 defaults:
   - scope:
