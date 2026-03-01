@@ -25,7 +25,7 @@ We are excited to announce that Pre-Fortress 2 is **now accepting applications f
 
 # Sneak Peek of the Steam Release
 ---
-*Take a closer look at that content!*
+*Take a look under the hood!*
 
 ## Weapon Overhauls
 
