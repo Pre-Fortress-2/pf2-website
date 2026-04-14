@@ -38,9 +38,9 @@ description: "Connect to a server"
     </div>
     <p><i><a href="https://github.com/sour-dani/steamconnect">This page is open source!</a></i></p>
     <script>
-        let server = location.href.split("?")[1];
-        if (server != undefined && !location.href.endsWith("?")) {
-            location = "steam://connect/" + server;
-        } 
+      const server = location.search.slice(1);
+      if (server) {
+          location.assign("steam://connect/" + server);
+      } 
     </script>
 </div>
