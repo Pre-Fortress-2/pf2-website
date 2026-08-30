@@ -11,13 +11,11 @@ We are looking for experienced individuals who are passionate about Source Engin
 
 <br>
 <div class="teams-container">
-  <details>
+  <!-- <details>
     <summary><h1>Programming Team</h1><hr></summary>
     <ul>
-      <li>{% include roles/gameprog.html %}</li>
-      <li>{% include roles/webdev.html %}</li>
     </ul>
-  </details>
+  </details> -->
 
   <details>
     <summary><h1>Mapping Team</h1><hr></summary>
@@ -46,9 +44,7 @@ We are looking for experienced individuals who are passionate about Source Engin
   <details>
     <summary><h1>3D Modeling Team</h1><hr></summary>
     <ul>
-    <li>{% include roles/3dconcept.html %}</li>
     <li>{% include roles/3dcharmodel.html %}</li>
-    <li>{% include roles/3dwpnmodel.html %}</li>
     <li>{% include roles/3drigging.html %}</li>
     </ul>
   </details>
@@ -57,7 +53,6 @@ We are looking for experienced individuals who are passionate about Source Engin
     <summary><h1>Animation Team</h1><hr></summary>
     <ul>
     <li>{% include roles/tpcharanim.html %}</li>
-    <li>{% include roles/fpwpnanim.html %}</li>
     </ul>
   </details>
 </div>
