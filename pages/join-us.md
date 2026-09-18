@@ -55,4 +55,11 @@ We are looking for experienced individuals who are passionate about Source Engin
     <li>{% include roles/tpcharanim.html %}</li>
     </ul>
   </details>
+
+  <details>
+    <summary><h1>Other</h1><hr></summary>
+    <ul>
+    <li>{% include roles/discordmod.html %}</li>
+    </ul>
+  </details>
 </div>
