@@ -8,6 +8,8 @@ description: "Credits for Pre-Fortress 2"
 {% assign member = site.data.credits %}
 {% assign i = 0 %}
 
+<i>Please forward any corrections to: <a href="mailto:{{ site.email }}">{{ site.email }}</a></i><br><br>
+
 <div class="credits-container">
     {% for i in (0..4) %}
         {% if i == 0 %}
